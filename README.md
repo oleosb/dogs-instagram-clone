@@ -1,3 +1,4 @@
 # App Dogs (Instagram Clone)
 
-App de fotos de cães
+App de fotos de cães.
+
